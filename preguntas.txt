@@ -1,0 +1,7 @@
+1- Mencione por lo menos 4 sistemas y procedimientos que forman parte del ambiente de una empresa.R/Clientes , Proveedores , competidores y gobierno
+2- Mencione los componentes básicos de un sistemaR/ el Objetivo, los elementos y las interrelaciones
+3- ¿Qué es un sistema operativo?R/ es un conjunto de recursos humanos y otro tipo de recursos 
+4-Realice un esquema de los procesos básicos de un sistema abiertoR/ 
+insumos                                                           productos
+                      organismos como proceso de conversion   
+recursos                                                          beneficios  
